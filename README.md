@@ -18,6 +18,18 @@ That experience shaped how I approach software: quality must be measurable, syst
 
 ## Featured projects
 
+### [LinePulse — Industrial Intelligence](https://github.com/tefik-aliu/linepulse-industrial-intelligence)
+
+[![LinePulse CI](https://github.com/tefik-aliu/linepulse-industrial-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/tefik-aliu/linepulse-industrial-intelligence/actions/workflows/ci.yml)
+
+A live industrial quality intelligence platform that turns simulated production events into OEE, reliability metrics, Pareto analysis and explainable operational alerts.
+
+Visitors can inject realistic failure scenarios such as pressure drift, micro-stops, defect clusters and dependency failure, then observe the measurable effects on quality, downtime and production performance.
+
+**Live demo:** [Launch LinePulse](https://linepulse-industrial-intelligence.onrender.com)
+
+**Core technologies:** Python · FastAPI · SQLAlchemy · JavaScript · Docker · Pytest · Playwright · GitHub Actions
+
 ### [IssuePilot](https://github.com/tefik-aliu/issuepilot)
 
 A full-stack issue tracking application with a FastAPI backend, SQLite persistence, responsive frontend, REST API documentation, automated tests, Docker support and continuous integration.
