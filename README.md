@@ -13,13 +13,22 @@ After more than 20 years in industrial operations, I'm moving into software deve
 - Creating Python tools that automate repetitive work
 - Exploring remote software and QA opportunities across Europe
 
-## Featured project
+## Featured projects
 
 ### [IssuePilot](https://github.com/tefik-aliu/issuepilot)
 
 A full-stack issue tracking application with a FastAPI backend, SQLite persistence, responsive frontend, REST API documentation, automated tests, Docker support and continuous integration.
 
 **Core technologies:** Python · FastAPI · SQLite · JavaScript · Pytest · Playwright · Docker · GitHub Actions
+
+
+### [Ops Report Automator](https://github.com/tefik-aliu/ops-report-automator)
+
+A Python automation tool that transforms CSV and Excel operations data into validated KPI dashboards, professional Excel workbooks and standalone HTML reports.
+
+The project includes data validation, automated calculations, charts, command-line usage, Docker support, automated tests and a GitHub Actions workflow that generates report artifacts.
+
+**Core technologies:** Python · Pandas · OpenPyXL · Pytest · Ruff · Docker · GitHub Actions
 
 ## Technical exploration
 
