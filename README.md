@@ -42,6 +42,14 @@ The workflow starts IssuePilot in GitHub Actions, executes API and browser tests
 
 **Core technologies:** Python · Playwright · Pytest · API Testing · End-to-End Testing · GitHub Actions
 
+### [Service Observability Lab](https://github.com/tefik-aliu/service-observability-lab)
+
+A production-style reliability, observability and QA project built around a FastAPI service.
+
+The project includes PostgreSQL, Docker Compose, Kubernetes manifests, Prometheus metrics, Grafana dashboards, OpenTelemetry tracing, health and readiness probes, Python API tests and TypeScript Playwright browser tests. Its GitHub Actions workflow automatically runs Ruff, Pytest, TypeScript validation and end-to-end testing.
+
+**Core technologies:** Python · FastAPI · PostgreSQL · Docker · Kubernetes · Prometheus · Grafana · OpenTelemetry · Pytest · Playwright · TypeScript · GitHub Actions
+
 ## Technical exploration
 
 ### IBM Quantum — CHSH/Bell experiment
