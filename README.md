@@ -4,7 +4,10 @@
 
 I'm based in Sweden and currently building practical, tested software with Python, FastAPI, JavaScript, SQL and modern AI-assisted development workflows.
 
-After more than 20 years in industrial operations, I'm moving into software development with a strong focus on reliability, problem-solving and tools that are useful in the real world.
+Before transitioning into software development and quality assurance, I spent more than 20 years working in industrial glass production at Saint-Gobain, one of the world's leading industrial and construction materials companies.
+
+That experience shaped how I approach software: quality must be measurable, systems must be reliable, problems must be investigated methodically, and solutions must work under real operational pressure. I bring extensive experience in production processes, quality control, machine operation, systematic troubleshooting, workplace safety and continuous improvement.
+
 
 ## What I'm working on
 
