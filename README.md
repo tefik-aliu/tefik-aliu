@@ -30,6 +30,15 @@ The project includes data validation, automated calculations, charts, command-li
 
 **Core technologies:** Python · Pandas · OpenPyXL · Pytest · Ruff · Docker · GitHub Actions
 
+
+### [IssuePilot QA Automation](https://github.com/tefik-aliu/issuepilot-qa-automation)
+
+An automated API and end-to-end browser testing suite for IssuePilot using Playwright and Pytest.
+
+The workflow starts IssuePilot in GitHub Actions, executes API and browser tests, and stores test artifacts for debugging. The repository also includes a structured test plan and bug report template.
+
+**Core technologies:** Python · Playwright · Pytest · API Testing · End-to-End Testing · GitHub Actions
+
 ## Technical exploration
 
 ### IBM Quantum — CHSH/Bell experiment
